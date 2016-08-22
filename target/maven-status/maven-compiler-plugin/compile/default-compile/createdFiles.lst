@@ -1,0 +1,6 @@
+com\xianyu\facade\com\xianyu\dto\ShiFuTuDTO.class
+com\xianyu\facade\impl\IShifutuController.class
+com\xianyu\facade\com\xianyu\util\HttpUtils.class
+com\xianyu\facade\com\xianyu\dto\BaseDTO.class
+com\xianyu\facade\MainApplication.class
+com\xianyu\facade\IShifutuFacade.class
