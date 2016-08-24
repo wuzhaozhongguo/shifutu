@@ -10,8 +10,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @EnableAutoConfiguration
 public class MainApplication {
+
     public static void main(String[] args) throws Exception {
         SpringApplication app = new SpringApplication(MainApplication.class);
         app.run(args);
+        System.out.println("启动");
     }
 }
