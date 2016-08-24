@@ -8,6 +8,7 @@
   <name>shifutu Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <parent>
+  
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>1.4.0.RELEASE</version>
